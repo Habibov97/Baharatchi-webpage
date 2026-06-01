@@ -1,4 +1,4 @@
-# Baharatci Clone
+# Baharatci Webpage
 
 A modern e-commerce web application inspired by the Baharatci website, built with React, Vite, Redux Toolkit, and Firebase.
 
